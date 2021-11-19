@@ -1,4 +1,4 @@
-## Rosa Arlette's Website <span style="color:blue">some *This is Blue italic.* text</span>
+## Rosa Arlette's Website <span style="color:blue"</span>
 
 You can use the [editor on GitHub](https://github.com/Rosa-A-Lucas/Rosa-A-Lucas.github.io/edit/main/index.md) to maintain and preview the content for your website in Markdown files.
 
